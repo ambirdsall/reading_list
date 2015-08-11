@@ -12,3 +12,6 @@ or didn't at one point, understand. Pull requests welcome!
 
 ## Ruby
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+
+## Unix and fam
+* [Writing man pages](http://liw.fi/manpages/)
