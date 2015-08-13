@@ -10,7 +10,7 @@ or didn't at one point, understand. Pull requests welcome!
 * [Naming UI Components in OOCSS](http://csswizardry.com/2014/03/naming-ui-components-in-oocss/)
 
 ## JavaScript for the Browser
-* [MDN WebGl Tutorial (3D rendering on <canvas>)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
+* [MDN WebGl Tutorial (3D rendering on &lt;canvas&gt;)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
 
 ## HTTP, Servers, Assorted Backend Stuff
 * [Scaling Ruby Apps to 1000 Requests/Minute - A Beginner's Guide](http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
