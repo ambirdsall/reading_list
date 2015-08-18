@@ -2,7 +2,12 @@
 A collection of links I've found particularly useful or clear on a topic I don't,
 or didn't at one point, understand. Pull requests welcome!
 
+## Design
+* [Game Programming Patterns (GoF-inspired book)](http://gameprogrammingpatterns.com/contents.html)
+* [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/)
+
 ## CSS
+* [CSS Guidelines/#naming](http://cssguidelin.es/#naming)
 * [Atomic Design: Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
 * [Fluid Grids:   Ethan Marcotte](http://alistapart.com/article/fluidgrids)
 * [where have you gone, Box Sizing, our nation turns its lonely eyes to you, woo woo woo](http://www.w3schools.com/css/css3_box-sizing.asp)
@@ -19,4 +24,8 @@ or didn't at one point, understand. Pull requests welcome!
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 
 ## Unix and fam
+* [Shell Scripting Style Guide](http://wiki.bash-hackers.org/scripting/style)
+* [Stronger Shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
 * [Writing man pages](http://liw.fi/manpages/)
+* [The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/)
+* [Outrageously Useful Z Shell Tips]()
