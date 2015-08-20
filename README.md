@@ -7,7 +7,8 @@ or didn't at one point, understand. Pull requests welcome!
 * [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/)
 
 ## CSS
-* [CSS Guidelines/#naming](http://cssguidelin.es/#naming)
+* [CSS Guidelines](http://cssguidelin.es/)
+* [Hacks for Dealing With Specificity](http://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 * [Atomic Design: Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
 * [Fluid Grids:   Ethan Marcotte](http://alistapart.com/article/fluidgrids)
 * [where have you gone, Box Sizing, our nation turns its lonely eyes to you, woo woo woo](http://www.w3schools.com/css/css3_box-sizing.asp)
