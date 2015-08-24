@@ -14,6 +14,8 @@ or didn't at one point, understand. Pull requests welcome!
 * [where have you gone, Box Sizing, our nation turns its lonely eyes to you, woo woo woo](http://www.w3schools.com/css/css3_box-sizing.asp)
 * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 * [Naming UI Components in OOCSS](http://csswizardry.com/2014/03/naming-ui-components-in-oocss/)
+* [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+* [MDN: The Stacking Context](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Understanding_z_index/The_stacking_context)
 
 ## JavaScript for the Browser
 * [MDN WebGl Tutorial (3D rendering on &lt;canvas&gt;)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
@@ -28,5 +30,4 @@ or didn't at one point, understand. Pull requests welcome!
 * [Shell Scripting Style Guide](http://wiki.bash-hackers.org/scripting/style)
 * [Stronger Shell](http://m.odul.us/blog/2015/8/12/stronger-shell)
 * [Writing man pages](http://liw.fi/manpages/)
-* [The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/)
-* [Outrageously Useful Z Shell Tips]()
+* [Outrageously Useful Z Shell Tips](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
